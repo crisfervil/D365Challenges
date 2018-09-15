@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Challenges.Platform", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Challenges.Challenges.Tests", "D365Challenges.Challenges.Tests\D365Challenges.Challenges.Tests.csproj", "{02CC7C51-3EF5-4EC4-83DD-A23AA3F60616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Challenges.Functions", "D365Challenges.Functions\D365Challenges.Functions.csproj", "{9F5E6834-9441-4AA2-8036-B27844270DB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D365Challenges.Functions", "D365Challenges.Functions\D365Challenges.Functions.csproj", "{9F5E6834-9441-4AA2-8036-B27844270DB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Challenges.Web", "D365Challenges.Web\D365Challenges.Web.csproj", "{84F2916C-FDA4-4137-ADCA-732547D5D1D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Challenges.Web", "docs\D365Challenges.Web.csproj", "{84F2916C-FDA4-4137-ADCA-732547D5D1D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
